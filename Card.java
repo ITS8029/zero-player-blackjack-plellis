@@ -1,4 +1,3 @@
-package com.adampolt;
 
 public class Card {
 	/**
